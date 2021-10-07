@@ -17,6 +17,7 @@
 
 - ⚡ Fun fact **I'm trying to be the best version of myself**
 
+<a href="https://app.daily.dev/wearethesame13"><img src="https://api.daily.dev/devcards/2e6ee2b71a9a47deb8a17739a48ad461.png?r=sot" width="400" alt="Lê Thọ Đạt's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/wearethesame13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="wearethesame13" height="30" width="40" /></a>
