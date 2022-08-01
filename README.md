@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wearethesame13&label=Profile%20views&color=0e75b6&style=flat" alt="wearethesame13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=wearethesame13" alt="wearethesame13" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wearethesame13&theme=onedark" alt="wearethesame13" /></a> </p>
 
 - 🔭 I’m currently a maintainer of **SHub Classroom - Online Teaching**
 
