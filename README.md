@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lê Thọ Đạt</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h3 align="center">A passionate software engineer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wearethesame13&label=Profile%20views&color=0e75b6&style=flat" alt="wearethesame13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wearethesame13&theme=onedark" alt="wearethesame13" /></a> </p>
 
-- 🔭 I’m currently a maintainer of **SHub Classroom - Online Teaching**
+- 🔭 I’m currently a maintainer of **jFoundation**
 
 - 🌱 I’m currently learning **Framework, other Programing languages**
-
-- 👯 I’m looking to collaborate on **React, NextJs**
-
-- 🤝 I’m looking for help with **Backend Experience**
 
 - 📫 How to reach me **wearethesame13@gmail.com**
 
